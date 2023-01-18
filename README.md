@@ -1,2 +1,2 @@
 # domain_search
-python3 searchdomain.py <domain> <wordlist>
+# python3 searchdomain.py <domain> <wordlist>
